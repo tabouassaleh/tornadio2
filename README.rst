@@ -2,6 +2,10 @@
 TornadIO2
 =========
 
+The original author is no longer maintaining this package. If you have any bug fixes or improvements, please submit a pull request.
+
+This version is compatible with Tornado 4.2.
+
 Contributors
 ------------
 
